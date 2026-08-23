@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/LotsV8pro">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&pause=1200&color=C4A8E2&center=true&vCenter=true&repeat=true&width=760&lines=Ricing+Arch+Linux+one+dot+at+a+time;Hyprland+%E2%80%A2+Quickshell+%E2%80%A2+Lua+%E2%80%A2+Bash;If+it+isn't+purple%2C+I'm+not+shipping+it" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&pause=1200&color=C4A8E2&center=true&vCenter=true&repeat=true&width=760&lines=life+is+but+a+dream%E2%80%A6;lover+of+a+ghost;till%27+death+was+never+enough;god+complex%3F+no+%E2%80%94+just+sudo;i+don%27t+care%2C+it+works+on+my+machine;burn+me+with+a+bible" alt="typing" />
 </a>
 
 </div>
