@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/LotsV8pro">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&pause=1200&color=C4A8E2&center=true&vCenter=true&repeat=true&width=760&lines=we+drift+where+stars+forget+their+names;an+orbit+made+of+you+and+me;somewhere+beyond+the+light%2C+we+meet;a+vow+the+grave+could+not+unmake;forever%2C+in+the+strangest+of+ways;our+little+corner+of+eternity;so+far+away%2C+yet+still+right+here;i+keep+you+in+the+quiet+hours;the+distance+is+a+door%2C+not+a+wall" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&pause=1200&color=C4A8E2&center=true&vCenter=true&repeat=true&width=760&lines=%22We+drift+where+stars+forget+their+names%22;%22An+orbit+made+of+you+and+me%22;%22Somewhere+beyond+the+light%2C+we+meet%22;%22A+vow+the+grave+could+not+unmake%22;%22Forever%2C+in+the+strangest+of+ways%22;%22Our+little+corner+of+eternity%22;%22So+far+away%2C+yet+still+right+here%22;%22I+keep+you+in+the+quiet+hours%22;%22The+distance+is+a+door%2C+not+a+wall%22;%22Loved+you+like+a+haunting%22;%22Sweet+on+the+tongue%2C+sharp+in+the+chest%22;%22Till%27+death+was+never+enough+for+us%22" alt="typing" />
 </a>
 
 </div>
