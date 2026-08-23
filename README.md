@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4A8E2,50:8C7AA6,100:1c1526&height=190&section=header&text=LotsV8pro&fontSize=52&fontColor=e6dff2&fontAlignY=42&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4A8E2,50:8C7AA6,100:1c1526&height=190&section=header&text=LotsV8pro&fontSize=52&fontColor=e6dff2&fontAlignY=42&animation=twinkling" width="100%" />
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 </div>
 
-## ⛧ about
+## <img src="https://capsule-render.vercel.app/api?type=soft&height=55&color=0:C4A8E2,100:6B4E9B&text=%E2%9B%A7%20about&fontSize=22&fontColor=e6dff2&animation=fadeIn" width="100%" alt="about" />
 
 - 🪷 building **LOTUS** — my Arch + Hyprland desktop, a project I use to learn my way around Linux
 - ❄️ presets, palettes, wallpapers, shells — scripting everything is how I figure things out
@@ -27,7 +27,7 @@
 
 </div>
 
-## 📊 stats
+## <img src="https://capsule-render.vercel.app/api?type=soft&height=55&color=0:C4A8E2,100:6B4E9B&text=%F0%9F%93%8A%20stats&fontSize=22&fontColor=e6dff2&animation=fadeIn" width="100%" alt="stats" />
 
 <table>
   <tr>
@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-## 🌱 contributions
+## <img src="https://capsule-render.vercel.app/api?type=soft&height=55&color=0:C4A8E2,100:6B4E9B&text=%F0%9F%8C%B1%20contributions&fontSize=22&fontColor=e6dff2&animation=fadeIn" width="100%" alt="contributions" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LotsV8pro&bg_color=16101e&color=e6dff2&line=C4A8E2&point=F0D9FF&area=true&area_color=3d2f5c&border_color=8C7AA6&hide_border=false&custom_title=commit%20activity" width="100%" alt="Activity graph" />
 
