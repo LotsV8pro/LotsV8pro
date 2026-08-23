@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/LotsV8pro">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&pause=1200&color=C4A8E2&center=true&vCenter=true&repeat=true&width=760&lines=life+is+but+a+dream%E2%80%A6;lover+of+a+ghost;till%27+death+was+never+enough;god+complex%3F+no+%E2%80%94+just+sudo;i+don%27t+care%2C+it+works+on+my+machine;burn+me+with+a+bible" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&pause=1200&color=C4A8E2&center=true&vCenter=true&repeat=true&width=760&lines=life+is+but+a+dream%E2%80%A6;buried+alive;afterlife;a+little+piece+of+heaven;roman+sky;4%3A00+am;lover+of+a+ghost;chasing+ghosts;till%27+death+was+never+enough" alt="typing" />
 </a>
 
 </div>
