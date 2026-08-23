@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4A8E2,50:8C7AA6,100:1c1526&height=190&section=header&text=LotsV8pro&fontSize=52&fontColor=e6dff2&fontAlignY=34&desc=ricing%20in%20purple%20since%20day%20one&descSize=18&descColor=d6c9ee&descAlignY=56&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4A8E2,50:8C7AA6,100:1c1526&height=190&section=header&text=LotsV8pro&fontSize=52&fontColor=e6dff2&fontAlignY=42&animation=fadeIn" width="100%" />
 
 <div align="center">
 
@@ -10,10 +10,10 @@
 
 ## ⛧ about
 
-- 🪷 building **LOTUS** — a fully themed Arch + Hyprland desktop, down to the last pixel
-- ❄️ everything is scripted: presets, palettes, wallpapers, shells — one rofi menu away
-- 🎨 obsessed with cohesive theming: Discord, Spotify, terminal, GTK, all matching
-- 🔧 if a tool doesn't fit the aesthetic, I write my own
+- 🪷 building **LOTUS** — my Arch + Hyprland desktop, a project I use to learn my way around Linux
+- ❄️ presets, palettes, wallpapers, shells — scripting everything is how I figure things out
+- 🎨 having fun theming Discord, Spotify, the terminal and GTK until they all match
+- 🔧 every repo here is me learning by doing, one experiment at a time
 
 <div align="center">
 
