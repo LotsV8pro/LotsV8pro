@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4A8E2,50:8C7AA6,100:1c1526&height=190&section=header&text=LotsV8pro&fontSize=52&fontColor=e6dff2&fontAlignY=42&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4A8E2,50:8C7AA6,100:1c1526&height=190&section=header&text=LotsV8&fontSize=52&fontColor=e6dff2&fontAlignY=42&animation=fadeIn" width="100%" />
 
 <div align="center">
 
