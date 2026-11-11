@@ -3,17 +3,26 @@
 <div align="center">
 
 <a href="https://github.com/LotsV8pro">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&pause=1200&color=C4A8E2&center=true&vCenter=true&repeat=true&width=760&lines=%22We+drift+where+stars+forget+their+names%22;%22An+orbit+made+of+you+and+me%22;%22Somewhere+beyond+the+light%2C+we+meet%22;%22A+vow+the+grave+could+not+unmake%22;%22Forever%2C+in+the+strangest+of+ways%22;%22Our+little+corner+of+eternity%22;%22So+far+away%2C+yet+still+right+here%22;%22I+keep+you+in+the+quiet+hours%22;%22The+distance+is+a+door%2C+not+a+wall%22;%22Loved+you+like+a+haunting%22;%22Sweet+on+the+tongue%2C+sharp+in+the+chest%22;%22Till%27+death+was+never+enough+for+us%22" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&pause=1200&color=C4A8E2&center=true&vCenter=true&repeat=true&width=760&lines=%22We+drift+where+stars+forget+their+names%22;%22An+orbit+made+of+you+and+me%22;%22Somewhere+beyond+the+light%2C+we+meet%22;%22A+vow+the+grave+could+not+unmake%22;%22Forever%2C+in+the+strangest+of+ways%22;%22Our+little+corner+of+eternity%22" alt="typing" />
 </a>
 
 </div>
 
-## ⛧ about
+## About
 
-- 🪷 building **LOTUS** — my Arch + Hyprland desktop, a project I use to learn my way around Linux
-- ❄️ presets, palettes, wallpapers, shells — scripting everything is how I figure things out
-- 🎨 having fun theming Discord, Spotify, the terminal and GTK until they all match
-- 🔧 every repo here is me learning by doing, one experiment at a time
+I build **Lotus**, a purple Arch Linux desktop, and the programs that go with
+it. Most of these repos started as something I wanted on my own machine.
+
+- [Lotus-Arch](https://github.com/LotsV8pro/Lotus-Arch): the desktop. Arch with
+  Hyprland, or Niri with the iNiR shell.
+- [lotus-tune](https://github.com/LotsV8pro/lotus-tune): a YouTube Music player
+  in Qt, with word by word lyrics, for Linux, Windows and Android.
+- Themes for Discord, Spotify and Steam, so the apps match the desktop.
+- Audio tooling: a microphone chain for EasyEffects, a voice preset and a
+  PipeWire router.
+
+Everything here is a personal project. The README of each repo says what works
+and what does not.
 
 <div align="center">
 
@@ -21,13 +30,13 @@
 ![Hyprland](https://img.shields.io/badge/Hyprland-1c1526?style=for-the-badge&logo=hyprland&logoColor=C4A8E2)
 ![Wayland](https://img.shields.io/badge/Wayland-1c1526?style=for-the-badge&logo=wayland&logoColor=C4A8E2)
 ![Lua](https://img.shields.io/badge/Lua-1c1526?style=for-the-badge&logo=lua&logoColor=C4A8E2)
-![Bash](https://img.shields.io/badge/Bash-1c1526?style=for-the-badge&logo=gnubash&logoColor=C4A8E2)
+![Rust](https://img.shields.io/badge/Rust-1c1526?style=for-the-badge&logo=rust&logoColor=C4A8E2)
+![Qt](https://img.shields.io/badge/Qt_6-1c1526?style=for-the-badge&logo=qt&logoColor=C4A8E2)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-## 📊 stats
+## Stats
 
 <table>
   <tr>
@@ -40,7 +49,7 @@
   </tr>
 </table>
 
-## 🌱 contributions
+## Contributions
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LotsV8pro&bg_color=16101e&color=e6dff2&line=C4A8E2&point=F0D9FF&area=true&area_color=3d2f5c&border_color=8C7AA6&hide_border=false&custom_title=commit%20activity" width="100%" alt="Activity graph" />
 
